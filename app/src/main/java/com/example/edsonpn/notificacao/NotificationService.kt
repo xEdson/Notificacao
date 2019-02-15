@@ -57,7 +57,7 @@ class NotificationService : Service() {
         }
 
         val v = longArrayOf(100,110,100,110)
-        val pendingIntent: PendingIntent = PendingIntent.getActivity(applicationContext, 0, intent, 0)
+        val pendingIntent: PendingIntent = PendingIntent.getActivity(applicationContext, 0, intent, PendingIntent.FLAG_UPDATE_CURRENT)
         val alarmSound = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION)
 
         val mBuilder = NotificationCompat.Builder(this)

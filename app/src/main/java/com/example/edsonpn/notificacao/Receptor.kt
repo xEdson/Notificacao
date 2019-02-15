@@ -1,5 +1,6 @@
 package com.example.edsonpn.notificacao
 
+import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_receptor.*
@@ -13,4 +14,8 @@ class Receptor : AppCompatActivity() {
         val mensagem = dados.getString("mensagem")
         textView_mensagem.text = mensagem
     }
+
+
+
+
 }
