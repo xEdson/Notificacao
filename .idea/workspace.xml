@@ -11,7 +11,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f8b784d-9aef-4997-bc74-948ed29f329b" name="Default" comment="" />
+    <list default="true" id="5f8b784d-9aef-4997-bc74-948ed29f329b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/NotificationService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/NotificationService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/Receptor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/Receptor.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,10 +62,10 @@
       <file leaf-file-name="Receptor.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/Receptor.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#41#171#0" expanded="true" />
+                <element signature="e#41#201#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,8 +74,8 @@
       <file leaf-file-name="NotificationService.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/NotificationService.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+            <state relative-caret-position="405">
+              <caret line="59" column="133" selection-start-line="59" selection-start-column="133" selection-end-line="59" selection-end-column="133" />
             </state>
           </provider>
         </entry>
@@ -2459,11 +2463,11 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_receptor.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/Receptor.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/RandomNumberService.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/MainActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/notificationService.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/Receptor.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/NotificationService.kt" />
       </list>
     </option>
@@ -2687,7 +2691,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
@@ -2772,16 +2776,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/Receptor.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#41#171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/MainActivity.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -2792,10 +2786,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/Receptor.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#41#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/edsonpn/notificacao/NotificationService.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="32" column="55" lean-forward="true" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+        <state relative-caret-position="405">
+          <caret line="59" column="133" selection-start-line="59" selection-start-column="133" selection-end-line="59" selection-end-column="133" />
         </state>
       </provider>
     </entry>
